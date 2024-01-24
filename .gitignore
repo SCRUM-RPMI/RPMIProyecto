@@ -1,0 +1,15 @@
+.DS_Store
+.vsconfig
+.vs/
+.vscode/
+*.suo
+*.userprefts
+*.sln
+*.csproj
+*pidb
+Temp/
+Library/
+Logs/
+obj/
+Builds/
+/UserSettings
