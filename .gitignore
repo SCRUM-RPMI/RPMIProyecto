@@ -1,15 +1,16 @@
+# Ignorar archivos y carpetas generados por Unity
 .DS_Store
 .vsconfig
 .vs/
 .vscode/
 *.suo
-*.userprefts
+*.userprefs
 *.sln
 *.csproj
-*pidb
+*.pidb
 Temp/
 Library/
 Logs/
 obj/
 Builds/
-/UserSettings
+UserSettings/
